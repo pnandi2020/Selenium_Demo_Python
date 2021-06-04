@@ -1,0 +1,7 @@
+<data>
+    <items>
+        <item name="LoginButton">btnLogin</item>
+        <item name="username">txtUsername</item>
+        <item name="password">txtPassword</item>
+    </items>
+</data>
